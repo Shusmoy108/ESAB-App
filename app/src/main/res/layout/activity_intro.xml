@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.example.shusmoy.esabfinal.introActivity">
+
+    <TextView
+        android:text="Engineering Student’s Association of Bangladesh (ESAB) is the government registered (reg no – ‘DHA-08951’) non-profit and non-political volunteer organization which is working for the betterment of Bangladesh. It is trying to establish a platform for engineering students of Bangladesh to nurture their inner potential and bring them one step closer to the social responsibilities.  This organization started in the early of 2011 with the earnest work flow, with some brave steps ESAB got government approval in 9th October, 2011 to run such non-profit organization in Bangladesh. After that, ESAB started its mainstream work and determined to face the future challenges with a strong ethical and philosophical value.  Now ESAB is running with more than one thousand registered members from all around Bangladesh, who are determined to establish their potential ideas and values for the betterment of their motherland"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
